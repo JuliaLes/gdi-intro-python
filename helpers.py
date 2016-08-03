@@ -1,5 +1,5 @@
 
-# Code written by GDI with word-processing features to play around with
+# Code written by the Ann Arbor with word-processing features to play around with
 
 """
 Suitable for hacking after class 3.

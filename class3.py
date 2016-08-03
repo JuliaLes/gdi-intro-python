@@ -1,7 +1,7 @@
 # GDI Intro Python Class 3
-# 7/26/16ystems.com/gdi
+# 7/26/16
 
-# url for slides: bysystems.com/gdi
+# url for slides: http://byssystems.com/gdi/#/
 
 def bostonize(word):
     return('Wicked ' + word)
